@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 800px;position: relative;left: 247px;overflow-x: hidden;overflow-y: hidden;
+}
+#main1{
+    float: left;position: relative;
+}
+
+
+#ab1{
+    float: left;position: relative;
+}
+#boy1{
+    float: left;position: relative;
+    
+}
+#main4{
+    position: relative;bottom: 48px;
+}
+#b_ab{
+    position: relative;bottom: 356px;right: 4px;
+}
+#boy2{
+    position: relative;right:27px;bottom: 356px;
+}
+#stories1{
+    position: relative;
+    left: 330px;bottom: 485px;
+
+}
+#stories-2{
+    position: relative;
+    right: 247px;bottom: 156px;
+}
+#b_stories{
+    position: relative;
+    bottom: 323px;left: 76px;
+}
+#stories3{
+    position: relative;
+    bottom: 323px;left: 72px;
+}
+#p1{
+    position: relative;line-height: 13px;width: 330px;
+    left: 330px;bottom:600px;
+    font-size: 11px;
+}
+#p1 p{
+    color:honeydew;
+}
+#p1 h4{
+    font-weight: bold;font-size: 10px;
+}
+#p2{
+    line-height: 12px;font-size: 10px;position: relative;
+    left: 346px;bottom: 556px;width: 380px;
+}
+#p2 p{
+    color: honeydew;
+}
+#main2{
+    position: relative;bottom: 547px;
+}
+#about-me{
+    position: relative;
+    bottom: 634px;right: 4px;
+}
+#shortstories{
+    position: relative;bottom: 612px;right: 134px;
+}
+#hobbies{
+    position: relative;bottom: 592px;right: 264px;
+}
+#friends{
+    position: relative;bottom: 570px;right: 394px;
+}
+#contact{
+    position: relative;bottom: 547px;right: 524px;
+}
+#main3{
+    position: relative;bottom: 879px;left: 221px;
+}
+#b_boy{
+    position: relative;
+    bottom: 1096px;left:518px;
+}
+#boy3{
+    position: relative;
+    bottom: 1096px;left: 514px;
+}
+#boy4{
+    position: relative;
+    bottom: 879px;left:330px;
+}
+#p3{
+    font-size: 10px;position: relative;bottom:1210px;left: 605px;
+}
+#p3 p{
+    color: honeydew;
+}
+#diary1{
+    position: relative;bottom: 1205px;left: 605px;
+}
+#gal1{
+    position: relative;bottom: 1100px;left:156px;
+}
+#fullsize{
+    position: relative;
+    bottom: 1044px;right: 113px;
+}
+#gal2{
+    position: relative;bottom: 1044px;right: 117px;
+}
+#fullsize28{
+    position: relative;bottom: 1044px;right: 121px;
+}
+#gal3{
+    position: relative;bottom: 1044px;right: 125px;
+}
+#fullsize30{
+    position: relative;bottom: 1044px;right: 129px;
+}
+#gal4{
+    position: relative;bottom: 1209px;left: 330px;height: 13px;width: 265px;
+}
+#b_diary{
+    position: relative;bottom: 1209px;left: 336px;
+}
+#diary2{
+    position: relative;bottom: 1209px;left: 332px;
+}
+#p4{
+    position: relative;font-size: 10px;bottom: 1390px;left: 606px;
+}
+#p4 p{
+    color: honeydew;
+}
+#p5{
+    position: relative;bottom: 1370px;left:606px;font-size: 10px;
+}
+#p5 p{
+    color: honeydew;
+}
+#p1 a{
+    color: white;
+}
+#p2 a{
+    color: white;
+}
+#p3 a{
+    color: white;
+}
+#p4 a{
+    color: white;
+}
+#p5 a{
+    color: white;
+}
+#p4 h4{
+    color: red;
+}
+#p5 h4{
+    color:red;
+} 
+#down{
+    position: relative;bottom: 1351px;
+}
+#down1{
+    position: relative;
+    bottom: 1355px;
+}
+#blinks{
+    position: relative;
+    bottom: 1355px;right:4px;
+}
+nav{
+    position: relative;bottom: 1440px;left: 310px;font-size: 11px;
+}
+nav a{
+    color: white;padding-right: 4px;border-right-style: ridge
+}
+nav #a1{
+    border-right-style: hidden;
+}
+footer{
+    position: relative;font-size: 11px;
+    bottom: 1420px;left: 310px;color:silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
